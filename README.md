@@ -3,8 +3,10 @@ Small App managing a company employee and manager, calculating salary and  membe
 
 Used on MS Visual Studio
 
-src folder including Department, Employee, HumanResources, ICalculator, Manager, Staff
-.idea folder including Gitnore files
+src folder including Department, Employee, HumanResources, ICalculator, Manager, Staff.
+
+.idea folder including Gitnore files.
+
 Main folder including HumanResource.iml
 
 App command
