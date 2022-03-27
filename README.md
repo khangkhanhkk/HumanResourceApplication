@@ -16,9 +16,9 @@ App command
 
 4. Add new employee with 2 option
 
- 1 Normal employere 
+  Add normal employere 
 
- 2 Add manager
+  Add manager
 
 5. Looking up an employee information based on Name or Employee Number
 
